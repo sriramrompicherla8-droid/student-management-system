@@ -1,2 +1,2 @@
-# student-management-system
+# demo
 This Is My First Repository
